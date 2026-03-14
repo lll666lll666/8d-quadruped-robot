@@ -1,2 +1,2 @@
 # 8d-quadruped-robot
-Control and Hardware Implementation of an 8-DOF Quadruped Robot Based on PuppyPi
+基于PuppyPi的八自由度四足机器人控制以及硬件实现
